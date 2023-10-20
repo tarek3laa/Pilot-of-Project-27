@@ -1,4 +1,4 @@
-## Pilot-of-Project-27 Development of telemetry server software prototype
+## Development of telemetry server software prototype
 
 The project focus on:
 
